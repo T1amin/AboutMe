@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name_text">Write Name</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio_text">
+        Hello, dear %1$s ! \n
+        Add a ScrollView with a TextView showing information about yourself to the layout. Style the TextView with NameStyle, and add additional styling to separate the scrollable text from the edges of the screen. Add some spacing between the lines using the lineSpacingMultiplier property to the TextView.
+    </string>
+</resources>
